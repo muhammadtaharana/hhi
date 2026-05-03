@@ -1,7 +1,7 @@
 ## Host Header Injector (HHI)
 
 <p align="center">
-<img width="600" height="484" alt="image" src="https://github.com/user-attachments/assets/7cdf7f14-273e-4489-81e8-6230a2735560" />
+<img width="1024" height="484" alt="image" src="https://github.com/user-attachments/assets/7cdf7f14-273e-4489-81e8-6230a2735560" />
 </p>
 
 > [!NOTE]
